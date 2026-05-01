@@ -15,7 +15,7 @@ A small builder studio shipping client products, internal tools, and AI-integrat
 
 ### How we work
 
-We test across the major AI platforms — OpenAI, Google Gemini, Claude, Code Puppy, GLM — and build with what fits the use case. Not a single-platform shop. Production ships are reviewed before merge; quality bar is enforced through branch protection, not vibes.
+We test across the major AI platforms and build with what fits the use case. Not a single-platform shop. Production ships are reviewed before merge; quality bar is enforced through branch protection, not vibes.
 
 The Claude Code workflow we run across every project is open and pinned below.
 
